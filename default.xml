@@ -64,6 +64,8 @@
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="device/samsung/d2" name="CarbonDev/android_device_samsung_d2-common" />
+  <project path="device/samsung/d2vzw" name="CarbonDev/android_device_samsung_d2vzw" />
   <project path="device/samsung/maguro" name="CarbonDev/android_device_samsung_maguro" />
   <project path="device/samsung/manta" name="CarbonDev/android_device_samsung_manta" />
   <project path="device/samsung/toro" name="CarbonDev/android_device_samsung_toro" />
